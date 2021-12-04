@@ -5,7 +5,44 @@
     width:100vw;
     display:flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     color:$primary;
-    font-weight: 600;
+    background-color: $background;
+    z-index:1;
+    position:fixed;
+    top:0;
 }
+
+#logoText{
+    font-weight:1000;
+}
+
+#navbarLinks{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    // width:100%;
+
+    li{
+        color:black;
+        margin:0 20px;
+    }
+
+    .navbarNavLink{
+        text-decoration: none;
+    }
+
+    .active{
+        li{
+            color:$primary;
+        }
+    }
+
+}
+
+#navbarContactLink{
+    text-decoration: none;
+    color:black;
+}
+
