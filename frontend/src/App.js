@@ -1,5 +1,5 @@
 import React from 'react'
-import './sass/main.scss'
+import './sass/app.scss'
 
 import Navbar from './components/navbar/Navbar.jsx';
 import Home from './components/home/Home.jsx';
