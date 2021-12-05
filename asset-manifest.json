@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Priya-Fashion/static/css/main.12694916.chunk.css",
+    "main.js": "/Priya-Fashion/static/js/main.9e777ebd.chunk.js",
+    "main.js.map": "/Priya-Fashion/static/js/main.9e777ebd.chunk.js.map",
+    "runtime-main.js": "/Priya-Fashion/static/js/runtime-main.1318d361.js",
+    "runtime-main.js.map": "/Priya-Fashion/static/js/runtime-main.1318d361.js.map",
+    "static/js/2.9b7ec420.chunk.js": "/Priya-Fashion/static/js/2.9b7ec420.chunk.js",
+    "static/js/2.9b7ec420.chunk.js.map": "/Priya-Fashion/static/js/2.9b7ec420.chunk.js.map",
+    "static/js/3.57028d03.chunk.js": "/Priya-Fashion/static/js/3.57028d03.chunk.js",
+    "static/js/3.57028d03.chunk.js.map": "/Priya-Fashion/static/js/3.57028d03.chunk.js.map",
+    "index.html": "/Priya-Fashion/index.html",
+    "static/css/main.12694916.chunk.css.map": "/Priya-Fashion/static/css/main.12694916.chunk.css.map",
+    "static/js/2.9b7ec420.chunk.js.LICENSE.txt": "/Priya-Fashion/static/js/2.9b7ec420.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1318d361.js",
+    "static/js/2.9b7ec420.chunk.js",
+    "static/css/main.12694916.chunk.css",
+    "static/js/main.9e777ebd.chunk.js"
+  ]
+}
