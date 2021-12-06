@@ -76,18 +76,30 @@
             // border:1px solid black;
 
             img{
-                width:40vh;
+                width:260px;
             }
 
         }
     }
 }
 
-@media only screen and(max-width:600px){
+@media only screen and(max-width:650px){
     #homeContainer{
-        margin-top:0px;
+        margin-top:20px;
     }
     #homeMainContainer{
-        flex-direction: column;
+        flex-direction:column!important;
+
+        #homeMainContainerText{
+            width:100%!important;
+        }
+        #homeMainContainerImg{
+            width:100%!important;
+            
+            img{
+                width:200px!important;
+            }
+        }
+
     }
 }
