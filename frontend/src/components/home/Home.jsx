@@ -1,6 +1,6 @@
 import React from 'react'
 import './home.scss'
-import homeImage from '../../images/homeScreenMainContainerImg.png'
+import homeScreenMainContainerImg from '../../images/homeScreenMainContainerImg.png'
 
 const Home = () => {
     return (
@@ -13,7 +13,7 @@ const Home = () => {
                         <button>Get Started <span>➔</span></button>
                     </div>
                     <div id="homeMainContainerImg">
-                        <img scr={homeImage} alt="Featured Vector Graphic" />
+                        <img src={homeScreenMainContainerImg} id="homeScreenMainContainerImage" alt="Featured Vector Graphic" />
                     </div>
                 </div>
                 <div id="whyUsHomeContainer">
