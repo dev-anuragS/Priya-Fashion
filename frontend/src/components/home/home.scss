@@ -1,0 +1,84 @@
+@import '../../sass/variables.scss';
+
+#homeContainer{
+    margin-top:60px;
+    padding:20px;
+    width:100vw;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    #homeMainContainer{
+        width:100%;
+        border:2px solid black;
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding:10px;
+        
+        #homeMainContainerText{
+            min-height:50vh;
+            width:45%;
+            display:flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding:10px;
+            border:1px solid black;
+
+            h2{
+                font-size:2rem;
+                line-height:2.5rem;
+                margin-bottom:20px;
+            }
+
+            span{
+                color:$primary;
+            }
+
+            p{
+                font-size:.8rem;
+                line-height:1.3rem;
+                margin-bottom:20px;
+            }
+
+            button{
+                width:65px;
+                height:65px;
+                border-radius:60px;
+                font-size: .7rem;
+                padding:5px;
+                background-color: $primary;
+                border:none;
+                color:white;
+                cursor:pointer;
+
+                span{
+                    color:white;
+                    font-size: 1.1rem;
+                    line-height:.7rem;
+                    
+                }
+
+            }
+
+        }
+        
+        #homeMainContainerImg{
+            min-height:50vh;
+            width:45%;
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            padding:10px;
+        }
+    }
+}
+
+@media only screen and(max-width:600px){
+    #homeContainer{
+        margin-top:0px;
+    }
+}

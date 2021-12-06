@@ -11,7 +11,7 @@ const Navbar = () => {
                 <ul id='navbarLinks'>
                     <NavLink className='navbarNavLink' exact to="/"><li>HOME</li></NavLink>
                     <NavLink className='navbarNavLink' exact to="/about"><li>EXPLORE</li></NavLink>
-                    <NavLink className='navbarNavLink' exact to='/gallery'><li>COLLECTIONS</li></NavLink>
+                    <NavLink className='navbarNavLink' exact to='/gallery'><li>COLLECTION</li></NavLink>
                 </ul>
                 <NavLink id='navbarContactLink' exact to='/contact'>CONTACT US</NavLink>
             </div>
