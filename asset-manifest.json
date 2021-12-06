@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Priya-Fashion/static/css/main.24072d20.chunk.css",
+    "main.css": "/Priya-Fashion/static/css/main.367d240b.chunk.css",
     "main.js": "/Priya-Fashion/static/js/main.77404cfd.chunk.js",
     "main.js.map": "/Priya-Fashion/static/js/main.77404cfd.chunk.js.map",
     "runtime-main.js": "/Priya-Fashion/static/js/runtime-main.b4fad1d4.js",
@@ -10,14 +10,14 @@
     "static/js/3.ad17b034.chunk.js": "/Priya-Fashion/static/js/3.ad17b034.chunk.js",
     "static/js/3.ad17b034.chunk.js.map": "/Priya-Fashion/static/js/3.ad17b034.chunk.js.map",
     "index.html": "/Priya-Fashion/index.html",
-    "static/css/main.24072d20.chunk.css.map": "/Priya-Fashion/static/css/main.24072d20.chunk.css.map",
+    "static/css/main.367d240b.chunk.css.map": "/Priya-Fashion/static/css/main.367d240b.chunk.css.map",
     "static/js/2.4adeaaaa.chunk.js.LICENSE.txt": "/Priya-Fashion/static/js/2.4adeaaaa.chunk.js.LICENSE.txt",
     "static/media/homeScreenMainContainerImg.f396f4be.png": "/Priya-Fashion/static/media/homeScreenMainContainerImg.f396f4be.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b4fad1d4.js",
     "static/js/2.4adeaaaa.chunk.js",
-    "static/css/main.24072d20.chunk.css",
+    "static/css/main.367d240b.chunk.css",
     "static/js/main.77404cfd.chunk.js"
   ]
 }
