@@ -1,7 +1,7 @@
 @import '../../sass/variables.scss';
 
 #homeContainer{
-    margin-top:100px;
+    margin-top:80px;
     padding:20px;
     width:100vw;
     display:flex;
@@ -36,6 +36,7 @@
 
             span{
                 color:$primary;
+                text-shadow: 0px 0px 2px rgba($color: #000000, $alpha: 0.7);
             }
 
             p{
@@ -54,6 +55,7 @@
                 border:none;
                 color:white;
                 cursor:pointer;
+                box-shadow: 0px 0px 15px 0px rgba($color: #000000, $alpha: 0.5);
 
                 span{
                     color:white;
@@ -85,7 +87,7 @@
 
 @media only screen and(max-width:650px){
     #homeContainer{
-        margin-top:20px;
+        margin-top:80px;
     }
     #homeMainContainer{
         flex-direction:column!important;

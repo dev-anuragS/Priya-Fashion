@@ -17,7 +17,20 @@ const Home = () => {
                     </div>
                 </div>
                 <div id="whyUsHomeContainer">
-
+                    <div id="whyUsHomeContainerText">
+                        <h2>Why Choose Us</h2>
+                    </div>
+                    <div id="whyUsHomeContainerCards">
+                        <div id="whyUsHomeContainerCard1">
+                            1
+                        </div>
+                        <div id="whyUsHomeContainerCard2">
+                            2
+                        </div>
+                        <div id="whyUsHomeContainerCard3">
+                            3
+                        </div>
+                    </div>
                 </div>
             </div>
         </>
