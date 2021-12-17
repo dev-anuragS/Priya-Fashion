@@ -21,13 +21,13 @@ const Home = () => {
                         <h2>Why Choose Us</h2>
                     </div>
                     <div id="whyUsHomeContainerCards">
-                        <div id="whyUsHomeContainerCard1">
+                        <div className="whyUsHomeContainerCard">
                             1
                         </div>
-                        <div id="whyUsHomeContainerCard2">
+                        <div className="whyUsHomeContainerCard">
                             2
                         </div>
-                        <div id="whyUsHomeContainerCard3">
+                        <div className="whyUsHomeContainerCard">
                             3
                         </div>
                     </div>

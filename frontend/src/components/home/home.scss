@@ -3,7 +3,7 @@
 #homeContainer{
     margin-top:80px;
     padding:20px;
-    width:100vw;
+    // width:100vw;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -82,26 +82,80 @@
             }
 
         }
+
     }
+
+    #whyUsHomeContainer{
+
+        // padding: 10px;
+
+        #whyUsHomeContainerText{
+            h2{
+                font-size: 1.9rem;
+                margin-left:10px;
+                // text-align: center;
+            }
+        }
+
+        #whyUsHomeContainerCards{
+            display:flex;
+            align-items: center;
+            justify-content: center;
+            min-height:20vh;
+
+            .whyUsHomeContainerCard{
+                width:300px;
+                margin:10px;
+                padding:10px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border:2px solid black;
+            }
+
+        }
+
+    }
+
 }
 
 @media only screen and(max-width:650px){
     #homeContainer{
         margin-top:80px;
-    }
-    #homeMainContainer{
-        flex-direction:column!important;
+    
+        #homeMainContainer{
+            flex-direction:column!important;
 
-        #homeMainContainerText{
-            width:100%!important;
-        }
-        #homeMainContainerImg{
-            width:100%!important;
-            
-            img{
-                width:200px!important;
+            #homeMainContainerText{
+                width:100%!important;
             }
-        }
+            #homeMainContainerImg{
+                width:100%!important;
+                
+                img{
+                    width:200px!important;
+                }
+            }
 
+        }
     }
 }
+
+@media only screen and (max-width:1000px){
+    #whyUsHomeContainerCards{
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width:400px){
+    .whyUsHomeContainerCard{
+        width: 250px!important;;
+    }    
+}
+
+@media only screen and (max-width:300px){
+    .whyUsHomeContainerCard{
+        width: 200px!important;;
+    }    
+}
+
