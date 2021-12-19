@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Priya-Fashion/static/css/main.d1cb9be9.chunk.css",
-    "main.js": "/Priya-Fashion/static/js/main.638a99a6.chunk.js",
-    "main.js.map": "/Priya-Fashion/static/js/main.638a99a6.chunk.js.map",
+    "main.css": "/Priya-Fashion/static/css/main.f40b8f58.chunk.css",
+    "main.js": "/Priya-Fashion/static/js/main.544ce36d.chunk.js",
+    "main.js.map": "/Priya-Fashion/static/js/main.544ce36d.chunk.js.map",
     "runtime-main.js": "/Priya-Fashion/static/js/runtime-main.b4fad1d4.js",
     "runtime-main.js.map": "/Priya-Fashion/static/js/runtime-main.b4fad1d4.js.map",
-    "static/js/2.4adeaaaa.chunk.js": "/Priya-Fashion/static/js/2.4adeaaaa.chunk.js",
-    "static/js/2.4adeaaaa.chunk.js.map": "/Priya-Fashion/static/js/2.4adeaaaa.chunk.js.map",
+    "static/js/2.c5f19499.chunk.js": "/Priya-Fashion/static/js/2.c5f19499.chunk.js",
+    "static/js/2.c5f19499.chunk.js.map": "/Priya-Fashion/static/js/2.c5f19499.chunk.js.map",
     "static/js/3.ad17b034.chunk.js": "/Priya-Fashion/static/js/3.ad17b034.chunk.js",
     "static/js/3.ad17b034.chunk.js.map": "/Priya-Fashion/static/js/3.ad17b034.chunk.js.map",
     "index.html": "/Priya-Fashion/index.html",
-    "static/css/main.d1cb9be9.chunk.css.map": "/Priya-Fashion/static/css/main.d1cb9be9.chunk.css.map",
-    "static/js/2.4adeaaaa.chunk.js.LICENSE.txt": "/Priya-Fashion/static/js/2.4adeaaaa.chunk.js.LICENSE.txt",
+    "static/css/main.f40b8f58.chunk.css.map": "/Priya-Fashion/static/css/main.f40b8f58.chunk.css.map",
+    "static/js/2.c5f19499.chunk.js.LICENSE.txt": "/Priya-Fashion/static/js/2.c5f19499.chunk.js.LICENSE.txt",
     "static/media/homeScreenMainContainerImg.f396f4be.png": "/Priya-Fashion/static/media/homeScreenMainContainerImg.f396f4be.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b4fad1d4.js",
-    "static/js/2.4adeaaaa.chunk.js",
-    "static/css/main.d1cb9be9.chunk.css",
-    "static/js/main.638a99a6.chunk.js"
+    "static/js/2.c5f19499.chunk.js",
+    "static/css/main.f40b8f58.chunk.css",
+    "static/js/main.544ce36d.chunk.js"
   ]
 }
