@@ -22,13 +22,16 @@ const Home = () => {
                     </div>
                     <div id="whyUsHomeContainerCards">
                         <div className="whyUsHomeContainerCard">
-                            1
+                            <h4>Title 1</h4>
+                            <span>Content 1</span>
                         </div>
                         <div className="whyUsHomeContainerCard">
-                            2
+                            <h4>Title 2</h4>
+                            <span>Content 2</span>
                         </div>
                         <div className="whyUsHomeContainerCard">
-                            3
+                            <h4>Title 3</h4>
+                            <span>Content 3</span>
                         </div>
                     </div>
                 </div>
