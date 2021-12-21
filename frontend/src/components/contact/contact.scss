@@ -1,0 +1,17 @@
+@import '../../sass/variables.scss';
+
+#contactMainContainer{
+    margin-top:80px;
+    padding:20px;
+    // width:100vw;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media only screen and(max-width:650px){
+    #contactMainContainer{
+        margin-top:80px;
+    }
+}
