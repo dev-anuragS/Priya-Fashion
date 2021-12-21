@@ -18,7 +18,7 @@ const Home = () => {
                 </div>
                 <div id="whyUsHomeContainer">
                     <div id="whyUsHomeContainerText">
-                        <h2>Why Choose Us</h2>
+                        <h2>Why <span>Choose Us</span></h2>
                     </div>
                     <div id="whyUsHomeContainerCards">
                         <div className="whyUsHomeContainerCard">
